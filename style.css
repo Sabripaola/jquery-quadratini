@@ -1,0 +1,15 @@
+.square{
+  width:30px;
+  height:30px;
+  border:1px solid black;
+  /* background:white; */
+}
+.primo,.secondo,.terzo,.quarto,.quinto,.sesto,.settimo,.ottavo{
+  float:left;
+}
+#button{
+  width:65px;
+  background:lightgrey;
+  border:2px solid black;
+  display:block;
+}
